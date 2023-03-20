@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://github.com/BetaPundit/BetaPundit/raw/master/assets/hi.gif" height="24px" style="max-width: 100%; display: inline-block;">
 
 <!--
 **mikelgalafate/mikelgalafate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
