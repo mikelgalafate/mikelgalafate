@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 
 I'm Mikel, a Computer Scientist and Computer Vision Engineer. I'm currently:
 
-- 🧪 Working at <a href="https://laimbio.org/" target="_blank"><img id="laimbio" src="img/logo_laimbio.svg" height="26px"></a> Medical Image Analysis and Biometrics Laboratory
-- 📚 Studying the <a href="https://mastervisionartificial.es/" target="_blank"> Computer Vision Master's Degree</a> at <a href="https://www.urjc.es" target="_blank"><img id="urjc" src="img/logo_urjc.svg" height="20px"> Universidad Rey Juan Carlos</a>, Madrid
+- 🧪 Working at <a href="https://laimbio.org/" target="_blank"><img id="laimbio" src="img/logo_laimbio.svg" height="26px"></a> Medical Image Analysis and Biometrics Laboratory.
+- 📚 Studying the <a href="https://mastervisionartificial.es/" target="_blank"> Computer Vision Master's Degree</a> at <a href="https://www.urjc.es" target="_blank"><img id="urjc" src="img/logo_urjc.svg" height="20px"> Universidad Rey Juan Carlos</a>, Madrid.
+- 🔬 Enhancing my knowledge of ML and DL.
+- 🔭 Learning to become a fullstacker.
 
 ##
 
